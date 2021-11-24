@@ -1,3 +1,3 @@
 ### Hello there! 🐺
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpixel-art&psig=AOvVaw2Iumu1c13jwzSIu6i8M-ie&ust=1637851356431000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDUu_SdsfQCFQAAAAAdAAAAABAD"/>
+<div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/pVGsAWjzvXcZW4ZBTE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/perfect-loops-pVGsAWjzvXcZW4ZBTE">via GIPHY</a></p>
