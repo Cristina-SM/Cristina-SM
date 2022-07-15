@@ -1,7 +1,12 @@
-# Hello there! 🐺
 <div align="center"> 
+  <h2>Hello there! 🐺</h2>
 <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="800px" height="300px"></img>
 </div>
+
+### :woman_technologist: About Me :
+* 💫 I'm currently learning some programming language.
+* I love playing video games and play sports  🐉.
+* Now I'm doing Erasmus 🛫
 
 <h3 align="left">Programming Languages and Tools:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
