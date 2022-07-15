@@ -1,4 +1,4 @@
-### Hello there! 🐺
+# Hello there! 🐺
 <div align="center"> 
 <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="800px" height="300px"></img>
 </div>
@@ -27,7 +27,8 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
-## Contact
-<a href="https://linkedin.com/in/adrián-ceniza-667034180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristina-santana-86a67b19b" height="30" width="40" /></a>
+
+## Contact:
+<a href="https://linkedin.com/in/cristina-santana-86a67b19b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristina-santana-86a67b19b" height="30" width="40" /></a>
 
 
