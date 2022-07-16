@@ -5,8 +5,8 @@
 
 ## About me:
 * I'm currently in Portugal doing Erasmus 🛫
-* I love play videogames 🕹️ and sometimes i stream on twitch 📹
-* I like to work on oneself and play sports 🤿
+
+* I love play videogames 🕹️, sometimes i stream on twitch 📹 and play sports 🤿
 
 <h2 align="left">Programming Languages and Tools:</h2>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
