@@ -3,6 +3,11 @@
 <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="800px" height="300px"></img>
 </div>
 
+## About me:
+* I'm currently in Portugal doing Erasmus 🛫
+* I love play videogames 🕹️ and sometimes i stream on twitch 📹
+* I like to work on oneself and play sports 🤿
+
 <h2 align="left">Programming Languages and Tools:</h2>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"      width="40" height="40"/> 
