@@ -14,7 +14,7 @@
 
 ## 🛠️ Some projects I work on
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cristina-SM&repo=VideoGames&theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cristina-SM&repo=Genshin-Impact-Discord-Bot&theme=radical)
 
 ## Contact Me:
 
