@@ -18,12 +18,8 @@
 
 ## Contact Me:
 
-<div align="left">
 <a href="https://linkedin.com/in/cristina-santana-86a67b19b" target="blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="cristina-santana-86a67b19b"/></a>
 
-<a target="_blank" href="mailto:cristinasantanamartindevelop@gmail.com" style="margin-left:20px">
-  <img alt="Gmail" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" /></a>
-</div>
 
 
 
