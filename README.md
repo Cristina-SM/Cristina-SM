@@ -4,7 +4,8 @@
 </div>
 
 ## About me:
-* I'm currently doing Erasmus in Portugal 🛫
+* I'm currently studying in University Las Palmas 💻
+* I was doing Erasmus in Portugal 🛫
 * I love play video-games 🕹️and sports like diving 🤿
 * I love to travel and I would like to do it more often. Some place i have visited are: Cape verde, Morroco, France, England, Portugal, the Dominican Republic and some places in Spain 🗺️
 
